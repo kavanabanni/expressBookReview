@@ -1,14 +1,14 @@
 let books = {
-      1: {"author": "Chinua Achebe","title": "Things Fall Apart", "reviews": {} },
-      2: {"author": "Hans Christian Andersen","title": "Fairy tales", "reviews": {} },
-      3: {"author": "Dante Alighieri","title": "The Divine Comedy", "reviews": {} },
-      4: {"author": "Unknown","title": "The Epic Of Gilgamesh", "reviews": {} },
-      5: {"author": "Unknown","title": "The Book Of Job", "reviews": {} },
-      6: {"author": "Unknown","title": "One Thousand and One Nights", "reviews": {} },
-      7: {"author": "Unknown","title": "Nj\u00e1l's Saga", "reviews": {} },
-      8: {"author": "Jane Austen","title": "Pride and Prejudice", "reviews": {} },
-      9: {"author": "Honor\u00e9 de Balzac","title": "Le P\u00e8re Goriot", "reviews": {} },
-      10: {"author": "Samuel Beckett","title": "Molloy, Malone Dies, The Unnamable, the trilogy", "reviews": {} }
+  "1": { "title": "Book1", "author": "Author1", "reviews": {} },
+  "2": { "title": "Book2", "author": "Author2", "reviews": {} },
+  "3": { "title": "Book3", "author": "Author3", "reviews": {} },
+  "4": { "title": "Book4", "author": "Author4", "reviews": {} },
+  "5": { "title": "Book5", "author": "Author5", "reviews": {} },
+  "6": { "title": "Book6", "author": "Author6", "reviews": {} },
+  "7": { "title": "Book7", "author": "Author7", "reviews": {} },
+  "8": { "title": "Book8", "author": "Author8", "reviews": {} },
+  "9": { "title": "Book9", "author": "Author9", "reviews": {} },
+  "10": { "title": "Book10", "author": "Author10", "reviews": {} }
 }
 
 module.exports=books;
